@@ -1,0 +1,92 @@
+header {
+    margin: 42px;
+    padding: 47px;
+    word-spacing: 32px;
+}
+
+a {
+    width: 87px;
+    height: 20px;
+    top: 47px;
+    left: 42px;
+}
+
+h1 {
+    
+    width: 582px;
+    height: 164px;
+    top: 342px;
+    left: 801px;
+    font-weight: 700px;
+    font-size: 62px;
+    line-height: 82px;
+    letter-spacing: 0.6px;
+    color: #161A49;
+
+}
+
+p {
+    width: 493px;
+    height: 99px;
+    top: 553px;
+    left: 801px;
+    font-weight: 400px;
+    font-size: 18px;
+    line-height: 33px;
+    letter-spacing: 0.5px;
+}
+
+
+.botao-1 {
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+    border-radius: 10px;
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 500px;
+    border: none;
+    color: white;
+    background: #6FBF44;
+}
+
+section {
+    margin: 121px;
+}
+
+.imagem-1 {
+    margin: 246 0 0 121;
+    width: 595.18px;
+    height: 500px 
+    top: 246px;
+    left: 121px;
+    display: inline-block;
+}
+
+aside {
+    display: inline-block;
+    width: 582px;
+    height: 164px;
+    top: 342px;
+    left: 801px;
+}
+
+button {
+    width: 112px;
+    height: 27px;
+    top: 707px;
+    left: 801px;
+    font-weight: 500px;
+    font-size: 18px;
+    line-height: 27px;
+    letter-spacing: 1px;
+    background: #6FBF44;
+    border: none;
+    border-radius: 10px;
+    color: white;
+    display: inline-block;
+    cursor: pointer;
+   
+    
+}
